@@ -1,0 +1,814 @@
+Prefix, Type, Description,
+"0",official,Diplomatic vehicles,
+"AD",official,US Military Vehicles in Germany,
+"BD",official,Federal German government vehicles (Bundestag / Bundesrat / Bundesrepublik Deutschland),
+"BG",official,Border police vehicles (Bundesgrenzschutz),
+"BP",official,Postal authority vehicles (Bundespost),
+"BW",official,Maritime authority vehicles (Bundes-Wasser- und Schiffahrtsverwaltung),
+"DB",official,Rail authority vehicles (Deutsche Bundesbahn),
+"THW",official,German Federal Agency for Technical Relief (Technisches Hilfswerk) vehicles,
+"X",official,NATO Forces vehicles,
+"Y",official,Armed Forces vehicles (Bundeswehr),
+"BBL",state,Brandenburg Land official vehicles,
+"BWL",state,Badem-Württemberg Land official vehicles,
+"BYL",state,Bavaria State (Bayern Land) official vehicles,
+"HEL",state,Hesse State (Hesse Land) official vehicles,
+"LSA",state,Saxony Anhalt State (Sachsen-Anhalt Land) official vehicles,
+"LSN",state,Saxony State (Sachsen Land) official vehicles,
+"MVL",state,Mecklenburg-Vorpommern Land official vehicles,
+"NL",state,Lower Saxony State (Niedersachsen Land) official vehicles,
+"NRW",state,North-Rhine-Westphalia State (Nordrhein-Westfalen Land) official vehicles,
+"RPL",state,Rhineland Palatinate State (Rheinland-Pfalz Land) official vehicles,
+"RWL",state,North-Rhine-Westphalia State (Nordrhein-Westfalen Land) official vehicles,
+"SAL",state,Saarland official vehicles,
+"SH",state,Schleswig-Holstein Land official vehicles,
+"THL",state,Thuringia State (Thüringen Land) official vehicles,
+A,city,Augsburg, Bavaria
+AA,city,Aalen & Ostalbkreis, Baden-Württemberg
+AB,city,Aschaffenburg, Bavaria
+ABG,city,Altenburger Land, Thuringia
+AC,city,Aachen, North-Rhine-Westphalia
+AH,city,Ahaus, North-Rhine-Westphalia
+AIB,city,Bad Aibling, Bavaria
+AIC,city,Aichach-Friedberg, Bavaria
+AE,city,Auerbach, Saxony
+AK,city,Altenkirchen (Westerwald), Rhineland Palatinate
+AL,city,Altena, North-Rhine-Westphalia
+ALF,city,Alfeld, Lower Saxony
+ALS,city,Alsfeld, Hesse
+ALZ,city,Alzenau, Bavaria
+AM,city,Amberg, Bavaria
+AN,city,Ansbach, Bavaria
+ANA,city,Annaberg-Buchholz, Saxony
+ANG,city,Angermünde, Brandenburg
+ANK,city,Anklam, Mecklenburg-Vorpommern
+AÖ,city,Altötting, Bavaria
+AP,city,Apolda & Weimarer Land, Thuringia
+APD,city,Apolda, Thuringia
+AR,city,Arnsberg, North-Rhine-Westphalia
+ARN,city,Arnstadt, Thuringia
+ART,city,Artern, Thuringia
+AS,city,Amberg-Sulzbach, Bavaria
+ASD,city,Aschendorf, Lower Saxony
+ASL,city,Aschersleben-Staßfurter Landkreis, Saxony-Anhalt
+ASZ,city,Aue-Schwarzenberg, Saxony
+AT,city,Alten-Treptow, Mecklenburg-Vorpommern
+AU,city,Aue, Saxony
+AUR,city,Aurich, Lower Saxony
+AW,city,Ahrweiler, Rhineland Palatinate
+AZ,city,Alzey-Worms, Rhineland Palatinate
+AZE,city,Anhalt-Zerbst, Saxony-Anhalt
+B,city,Berlin,
+BA,city,Bamberg, Bavaria
+BAD,city,Baden-Baden, Baden-Württemberg
+BAR,city,Barnim (Eberswalde), Brandenburg
+BB,city,Böblingen, Baden-Württemberg
+BBG,city,Bernburg, Saxony-Anhalt
+BBL,city,Brandenburg Land official vehicles,
+BC,city,Biberach, Baden-Württemberg
+BCH,city,Buchen, Baden-Württemberg
+BD,city,Federal German government vehicles,
+BE,city,Bechum, North-Rhine-Westphalia
+BED,city,Brand-Erbisdorf, Saxony
+BEI,city,Beilingries, Bavaria
+BEL,city,Blezig, Brandenburg
+BER,city,Bernau, Brandenburg
+BF,city,Burgsteinfurt, North-Rhine-Westphalia
+BG,state,Border police vehicles,
+BGD,city,Berchtesgaden, Bavaria
+BGL,city,Berchtesgardener Land, Bavaria
+BH,city,Bühl, Baden-Württenmberg
+BI,city,Bielefeld, North-Rhine-Westphalia
+BID,city,Biedenkopf, Hesse
+BIN,city,Bingen, Rhineland Palatinate
+BIR,city,Birkenfeld, Rhineland Palatinate
+BIT,city,Bitburg-Prüm, Rhineland Palatinate
+BIW,city,Bischofswerda, Saxony
+BK,city,Bicknang, Baden-Württemberg
+BKS,city,Bernkastel, Rhineland Palatinate
+BL,city,Balingen & Zollernalbkreis, Baden-Württemberg
+BLB,city,Bad Berleburg, North-Rhine-Westphalia
+BLK,city,Burgenlandkreis, Saxony-Anhalt
+BM,city,Bergheim & Erftkreis, North-Rhine-Westphalia
+BN,city,Bonn, North-Rhine-Westphalia
+BNA,city,Borna, Saxony
+BO,city,Bochum, North-Rhine-Westphalia
+BÖ,city,Bördekreis, Saxony-Anhalt
+BOG,city,Bogen, Bavaria
+BOH,city,Bocholt, North-Rhine-Westphalia
+BOR,city,Borken, North-Rhine-Westphalia
+BOT,city,Bottrop, North-Rhine-Westphalia
+BP,state,Postal authority vehicles (Bundespost),
+BR,city,Bruchsal, Baden-Württemberg
+BRA,city,Brake (Unterweser) & Wesermarsch, Lower Saxony
+BRB,city,Brandenburg, Brandenburg
+BRG,city,Burg, Saxony-Anhalt
+BRI,city,Brilon, North-Rhine-Westphalia
+BRK,city,Bad Brückenau, Bavaria
+BRL,city,Braunlage, Lower Saxony
+BRV,city,Bremervörde, Lower Saxony
+BS,city,Brunswick (Braunschweig), Lower Saxony
+BSB,city,Bersenbrück, Lower Saxony
+BSK,city,Beeskow, Brandenburg
+BT,city,Bayreuth, Bavaria
+BTF,city,Bitterfeld, Saxony-Anhalt
+BU,city,Burgdorf, Lower Saxony
+BÜD,city,Büdingen, Hesse
+BUL,city,Burglengenfeld, Bavaria
+BUR,city,Buren, North-Rhine-Westphalia
+BÜS,city,Büsingen & Konstanz, Baden-Württemberg
+BÜZ,city,Bützow, Mecklenburg-Vorpommern
+BW,state,Maritime authority vehicles,
+BWL,state,Badem-Württemberg Land official vehicles,
+BYL,state,Bavaria State (Bayern Land) official vehicles,
+BZ,city,Bautzen, Saxony
+BZA,city,Bergzabern, Rhineland Palatinate
+C,city,Chemnitz, Saxony
+CA,city,Calau, Brandenburg
+CAS,city,Castrop-Rauxel, North-Rhine-Westphalia
+CB,city,Cottbus, Brandenburg
+CE,city,Celle, Lower Saxony
+CHA,city,Cham, Bavaria
+CHL,city,"Chemnitzer Land, Kreis Glochau", Saxony
+CLP,city,Cloppenburg, Lower Saxony
+CLZ,city,Clausthal-Zellerfeld, Lower Saxony
+CO,city,Coburg, Bavaria
+COC,city,Cochem-Zell, Rhineland Palatinate
+COE,city,Coesfeld, North-Rhine-Westphalia
+CR,city,Crailsheim, Baden-Württemberg
+CT,city,Cottbus, Saxony
+CUX,city,Cuxhaven, Lower Saxony
+CW,city,Calw, Baden-Württemberg
+D,city,Düsseldorf, North-Rhine-Westphalia
+DA,city,Darmstadt & Darmstadt-Dieburg, Hesse
+DAH,city,Dachau, Bavaria
+DAN,city,Lüchow-Dannenberg, Lower Saxony
+DAU,city,Daun, Rhineland Palatinate
+DB,state,Rail authority vehicles (Deutsche Bundesbahn),
+DBR,city,Bad Doberan, Mecklenburg-Vorpommern
+DD,city,Dresden,Dresden
+DE,city,Dessau, Saxony-Anhalt
+DEG,city,Deggendorf, Bavaria
+DEL,city,Delmenhorst, Lower Saxony
+DG,city,Donaueschingen, Baden-Württemberg
+DGF,city,Dingolfing-Landau, Bavaria
+DH,city,Diepholz, Lower Saxony
+DI,city,Dieburg, Hesse
+DIL,city,Dillenburg, Hesse
+DIN,city,Dinslaken, North-Rhine-Westphalia
+DIZ,city,Diez, Rhineland Palatinate
+DKB,city,Dinkelsbühl, Bavaria
+DL,city,Döbeln, Saxony
+DLG,city,Dillingen an der Donau, Bavaria
+DM,city,Demmin, Mecklenburg-Vorpommern
+DN,city,Düren, North-Rhine-Westphalia
+DO,city,Dortmund, North-Rhine-Westphalia
+DON,city,Donau-Ries, Bavaria
+DS,city,Donaueschingen, Baden-Württemberg
+DT,city,Detmold & Lippe, North-Rhine-Westphalia
+DU,city,Duisburg, North-Rhine-Westphalia
+DUD,city,Duderstadt, Lower Saxony
+DÜW,city,Bad Dürkheim & Weinstraße, Rhineland Palatinate
+DW,city,Dippoldiswalde & Weißeritzkreis, Saxony
+DZ,city,Delitzsch, Saxony
+E,city,Essen, North-Rhine-Westphalia
+EA,city,Eisenach, Thuringia
+EB,city,Eilenburg, Saxony
+EBE,city,Ebersberg, Bavaria
+EBN,city,Ebern, Bavaria
+EBS,city,Ebermannstadt, Bavaria
+ECK,city,Eckernförde, Schleswig-Holstein
+ED,city,Erding, Bavaria
+EE,city,Elbe-Elster, Brandenburg
+EF,city,Erfurt, Thuringia
+EG,city,Eggenfelden, Bavaria
+EH,city,Eisenhüttenstadt, Brandenburg
+EHI,city,Ehingen, Baden-Württemberg
+EI,city,Eichstätt, Bavaria
+EIC,city,Eichsfeld, Thuringia
+EIH,city,Eichstätt, Bavaria
+EIL,city,Eisleben, Saxony-Anhalt
+EIN,city,Einbeck, Lower Saxony
+EIS,city,Eisenberg,Eisenberg
+EL,city,Emsland, Lower Saxony
+EM,city,Emmendingen, Baden-Württemberg
+EMD,city,Emden, Lower Saxony
+EMS,city,Bad Ems & Rhein-Lahn-Kreis, Rhineland Palatinate
+EN,city,Ennepe-Ruhr-Kreis, North-Rhine-Westphalia
+ER,city,Erlangen, Bavaria
+ERB,city,Erbach & Oldenwaldkreis, Hesse
+ERH,city,Erlangen-Höchstadt, Bavaria
+ERK,city,Erkelenz, North-Rhine-Westphalia
+ES,city,Esslingen, Baden-Württemberg
+ESA,city,Eisenach, Thuringia
+ESB,city,Eschenbach, Bavaria
+ESW,city,Eschwege & Werra-Meißner-Kreis, Hesse
+EU,city,Euskirchen, North-Rhine-Westphalia
+EUT,city,Eutin, Schleswig-Holstein
+EW,city,Eberswalde, Brandenburg
+F,city,Frankfurt am Main, Hesse
+FAL,city,Fallingbostel, North-Rhine-Westphalia
+FB,city,Friedberg (Hessen) & Wetteraukreis, Hesse
+FD,city,Fulda, Hesse
+FDB,city,Friedberg bei Augsburg, Bavaria
+FDS,city,Freudenstadt, Baden-Württemberg
+FEU,city,Feuchtwangen, Bavaria
+FF,city,Frankfurt-an-der-Oder, Brandenburg
+FFB,city,Fürstenfeldbruck, Bavaria
+FG,city,Freiberg, Saxony
+FH,city,Frankfurt am Main/Höchst, Hesse
+FI,city,Finsterwalde, Brandenburg
+FKB,city,Frankenberg, Hesse
+FL,city,Flensburg, Schleswig-Holstein
+FLÖ,city,Flöha, Saxony
+FN,city,Friedrichshafen & Bodenseekreis, Baden-Württemberg
+FO,city,Forchheim, Bavaria
+FOR,city,Forst, Brandenburg
+FR,city,Freiburg im Breisgau & Breisgau-Hochschwarzwald, Baden-Württemberg
+FRG,city,Freyung-Grafenau, Bavaria
+FRI,city,Friesland, Lower Saxony
+FRW,city,Bad Freienwalde, Brandenburg
+FS,city,Freising, Bavaria
+FT,city,Frankenthal (Pfalz), Rhineland Palatinate
+FTL,city,Freital, Saxony
+FÜ,city,Fürth, Bavaria
+FÜS,city,Füssen, Bavaria
+FW,city,Fürstenwalde, Brandenburg
+FZ,city,Fritzlar, Hesse
+G,city,Gera, Thuringia
+GA,city,Gardelegen, Saxony Anhalt
+GAN,city,Bad Gandersheim, Lower Saxony
+GAP,city,Garmisch-Partenkirchen, Bavaria
+GC,city,Glauchau & Chemnitzer Land, Saxony
+GD,city,Gmünd, Baden-Württemberg
+GDB,city,Gadesbusch, Mecklenburg-Vorpommern
+GE,city,Gelsenkirchen, North-Rhine-Westphalia
+GEL,city,Geldern, North-Rhine-Westphalia
+GEM,city,Gemünden, Bavaria
+GEO,city,Gerolzhofen, Bavaria
+GER,city,Germersheim, Rhineland Palatinate
+GF,city,Gifhorn, Lower Saxony
+GG,city,Groß-Gerau, Hesse
+GHA,city,Geithain, Saxony
+GHC,city,Gräfenhainichen, Saxony Anhalt
+GI,city,Gießen, Hesse
+GK,city,Geilenkirchen, North-Rhine-Westphalia
+GL,city,Bergisch-Gladbach & Rheinisch-Bergischer Kreis, North-Rhine-Westphalia
+GLA,city,Gladbeck, North-Rhine-Westphalia
+GM,city,Gummersbach & Oberbergischer Kreis, North-Rhine-Westphalia
+GMN,city,Grimmen, Mecklenburg-Vorpommern
+GN,city,Gelnhausen, Hesse
+GNT,city,Genthin, Saxony Anhalt
+GÖ,city,Göttingen, Lower Saxony
+GOA,city,St Goar, Rheinland Palatinate
+GOH,city,St Goarshausen, Rheinland Palatinate
+GP,city,Göppingen, Baden-Württemberg
+GR,city,Görlitz, Saxony
+GRA,city,Grafenau, Bavaria
+GRH,city,Grossenheim,Grossenheim
+GRI,city,Griesbach, Bavaria
+GRM,city,Grimma, Saxony
+GRS,city,Gransee, Brandenburg
+GRZ,city,Greiz, Thuringia
+GS,city,Goslar, Lower Saxony
+GT,city,Gütersloh, North-Rhine-Westphalia
+GTH,city,Gotha, Thuringia
+GÜ,city,Güstrow, Mecklenburg-Vorpommern
+GUB,city,Guben, Brandenburg
+GUN,city,Gunzenhausen, Bavaria
+GV,city,Gravenbroich, North-Rhine-Westphalia
+GVM,city,Grevesmühlen, Mecklenburg-Vorpommern
+GW,city,Greifswald Land, Mecklenburg-Vorpommern
+GZ,city,Günzburg, Bavaria
+H,city,Hanover (Hannover), Lower Saxony
+HA,city,Hagen, North-Rhine-Westphalia
+HAB,city,Hammelburg, Bavaria
+HAL,city,Halle, Saxony-Anhalt
+HAM,city,Hamm, North-Rhine-Westphalia
+HAS,city,Haßberge, Bavaria
+HB,city,Hansestadt Bremen,Hansestadt Bremen
+HBN,city,Hildburghausen, Thuringia
+HBS,city,Halberstadt, Saxony-Anhalt
+HC,city,Hainichen, Saxony
+HCH,city,Hechingen, Baden-Württemberg
+HD,city,Heidelberg & Rhein-Neckar-Kreis, Baden-Württemberg
+HDH,city,Heidenheim, Baden-Württemberg
+HDL,city,Haldensleben, Saxony Anhalt
+HE,city,Helmstedt, Lower Saxony
+HEB,city,Hersbruck, Bavaria
+HEF,city,Hersfeld-Rotenburg, Hesse
+HEI,city,Heide & Dithmarschen, Schleswig-Holstein
+HEL,state,Hesse State (Hesse Land) official vehicles,
+HER,city,Herne, North-Rhine-Westphalia
+HET,city,Hettstedt, Saxony Anhalt
+HF,city,Herford, North-Rhine-Westphalia
+HG,city,Bad Homburg vor der Höhe & Hochtaunuskreis, Hesse
+HGN,city,Hagenow, Mecklenburg-Vorpommern
+HGW,city,Hansestadt Greifswald, Mecklenburg-Vorpommern
+HH,city,Hansestadt Hamburg,Hansestadt Hamburg
+HHM,city,Hohenmölsen, Saxony Anhalt
+HI,city,Hildesheim, Lower Saxony
+HIG,city,Heiligenstadt, Thuringia
+HIP,city,Hilpoltstein, Bavaria
+HK,city,Heidekreis, Lower Saxony
+HL,city,Hansestadt Lübeck,Hansestadt Lübeck
+HM,city,Hamelin(Hameln)-Pyrmont, Lower Saxony
+HMU,city,Hanoversch Münden, Lower Saxony
+HN,city,Heilbronn, Baden-Württemberg
+HO,city,Hof, Bavaria
+HOG,city,Hofgeismar, Hesse
+HOH,city,Hofheim, Bavaria
+HOL,city,Holzminden, Lower Saxony
+HOM,city,Homburg & Saar-Pfalz-Kreis, Saarland
+HOR,city,Horb, Baden-Württemberg
+HÖS,city,Höchstadt, Bavaria
+HOT,city,Hohenstein-Ernstthal, Saxony
+HP,city,Heppenheim an der Bergstraße & Bergstraße, Hesse
+HR,city,Homberg & Schwalm-Eder-Kreis, Hesse
+HRO,city,Hansestadt Rostock, Mecklenburg-Vorpommern
+HS,city,Heinsberg, North-Rhine-Westphalia
+HSK,city,Hochsauerlandkreis, North-Rhine-Westphalia
+HST,city,Hansestadt Stralsund, Mecklenburg-Vorpommern
+HU,city,Hanau & Main-Kinzig-Kreis, Hesse
+HÜN,city,Hünfeld, Schleswig-Holstein
+HUS,city,Husum, Schleswig-Holstein
+HV,city,Havelberg, Saxony Anhalt
+HVL,city,Havelland, Brandenburg
+HW,city,Halle Westfalen, North-Rhine-Westphalia
+HWI,city,Hansestadt Wismar, Mecklenburg-Vorpommern
+HX,city,Höxter, North-Rhine-Westphalia
+HY,city,Hoyerswerda, Saxony
+HZ,city,Herzberg, Brandenburg
+IGB,city,Stadt St Ingbert & Saar-Pfalz-Kreis, Saarland
+IK,city,Ilm-Kreis, Thuringia
+IL,city,Ilmenau, Thuringia
+ILL,city,Illertissen, Bavaria
+IN,city,Ingolstadt, Bavaria
+IS,city,Iserlohn, North-Rhine-Westphalia
+IZ,city,Itzehoe & Steinburg, Schleswig-Holstein
+J,city,Jena, Thuringia
+JB,city,Jüterbog, Brandenburg
+JE,city,Jessen, Saxony Anhalt
+JEV,city,Jever, Lower Saxony
+JL,city,Jerichower Land, Saxony-Anhalt
+JÜL,city,Jülich, North-Rhine-Westphalia
+K,city,Cologne (Köln), North-Rhine-Westphalia
+KA,city,Karlsruhe, Baden-Württemberg
+KAR,city,Karlstadt, Bavaria
+KB,city,Korbach & Waldeck-Frankenberg, Hesse
+KC,city,Kronach, Bavaria
+KE,city,Kempten (Allgäu), Bavaria
+KEH,city,Kelheim, Bavaria
+KEL,city,Kehl, Baden-Württemberg
+KEM,city,Kemnath, Bavaria
+KF,city,Kaufbeuren, Bavaria
+KG,city,Bad Kissingen, Bavaria
+KH,city,Bad Kreuznach, Rhineland Palatinate
+KI,city,Kiel, Schleswig-Holstein
+KIB,city,Kirchheimbolanden & Donnersbergkreis, Rhineland Palatinate
+KK,city,Kempen-Krefeld, North-Rhine-Westphalia
+KL,city,Kaiserslauten, Rhineland Palatinate
+KLE,city,Cleves (Kleve), North-Rhine-Westphalia
+KLT,city,Klingental, Saxony
+KLZ,city,Klötze, Saxony Anhalt
+KM,city,Kamenz, Saxony
+KN,city,Constance (Konstanz), Baden-Württemberg
+KO,city,Koblenz, Rhineland Palatinate
+KÖN,city,Kötzting, Bavaria
+KÖT,city,Köthen, Saxony-Anhalt
+KOZ,city,Kotzting,Kotzting
+KR,city,Krefeld, North-Rhine-Westphalia
+KRU,city,Krumbach, Bavaria
+KS,city,Kassel, Hesse
+KT,city,Kitzingen, Bavaria
+KU,city,Kulmbach, Bavaria
+KÜN,city,Küzelsau & Hohenlohekreis, Baden-Württemberg
+KUS,city,Kusel, Rhineland Palatinate
+KW,city,Königs-Wusterhausen, Brandenburg
+KY,city,Kyritz, Brandenburg
+KYF,city,Kyffhäuserkreis, Thuringia
+L,city,Leipzig, Saxony
+LA,city,Landshut, Bavaria
+LAN,city,Landau Isar, Bavaria
+LAT,city,Lauterbach, Hesse
+LAU,city,Lauf an der Pegnitz & Nürnberger Land, Bavaria
+LB,city,Ludwigsburg, Baden-Württemberg
+LBS,city,Lobenstein, Thuringia
+LBZ,city,Lübz, Mecklenburg-Vorpommern
+LC,city,Luckau, Brandenburg
+LD,city,Landau in der Pfalz, Rhineland Palatinate
+LDK,city,Lahn-Dill-Kreis, Hesse
+LDS,city,Landkreis Dahme-Spreewald, Brandenburg
+LE,city,Lemgo, North-Rhine-Westphalia
+LEO,city,Leonberg, Baden-Württemberg
+LER,city,Leer (Ostfriesland), Lower Saxony
+LEV,city,Leverkusen, North-Rhine-Westphalia
+LF,city,Laufen, Bavaria
+LG,city,Lüneburg, Lower Saxony
+LH,city,Lüdinghausen, North-Rhine-Westphalia
+LI,city,Lindau (Bodensee), Bavaria
+LIB,city,Bad Liebenwerda, Brandenburg
+LIF,city,Lichtenfels, Bavaria
+LIN,city,Lingen, Lower Saxony
+LIP,city,Lippe, North-Rhine-Westphalia
+LK,city,Lübbecke, North-Rhine-Westphalia
+LL,city,Landsberg am Lech, Bavaria
+LM,city,Limburg-Weilburg, Hesse
+LN,city,Lübben, Brandenburg
+LÖ,city,Lörrach, Baden-Württemberg
+LÖB,city,Löbau, Saxony
+LOH,city,Lohr am Main, Bavaria
+LOS,city,Landkreis Oder-Spree, Brandenburg
+LP,city,Lippstadt, North-Rhine-Westphalia
+LR,city,Lahr, Baden-Württemberg
+LS,city,Lüdenscheid, North-Rhine-Westphalia
+LSA,state,Saxony Anhalt State official vehicles,
+LSN,state,Saxony State official vehicles,
+LSZ,city,Bad Langensalza, Thuringia
+LU,city,Ludwigshafen am Rhein, Rhineland Palatinate
+LÜD,city,Lüdenscheid, North-Rhine-Westphalia
+LUK,city,Luckenwalde, Brandenburg
+LÜN,city,Lünen, North-Rhine-Westphalia
+LWL,city,Ludwigslust, Mecklenburg-Vorpommern
+M,city,Munich (München), Bavaria
+MA,city,Mannheim, Baden-Württemberg
+MAB,city,Marienberg, Saxony
+MAI,city,Mainburg, Bavaria
+MAK,city,Marktredwitz, Bavaria
+MAL,city,Mallersdorf, Bavaria
+MAR,city,Marktheidenfeld, Bavaria
+MB,city,Miesbach, Bavaria
+MC,city,Malchin, Mecklenburg-Vorpommern
+MD,city,Magdeburg, Saxony-Anhalt
+ME,city,Mettmann, North-Rhine-Westphalia
+MED,city,Meldorf, Schleswig-Holstein
+MEG,city,Melsungen, Hesse
+MEI,city,Meissen, Saxony
+MEK,city,Mittlerer Erzgebirgskreis, Saxony
+MEL,city,Melle, Lower Saxony
+MEP,city,Meppen, Lower Saxony
+MER,city,Merseburg, Saxony Anhalt
+MES,city,Meschede, North-Rhine-Westphalia
+MET,city,Mellrichstadt, Bavaria
+MG,city,Mönchengladbach, North-Rhine-Westphalia
+MGH,city,Bad Mergentheim, Baden-Württemberg
+MGN,city,Meiningen, Thuringia
+MH,city,Mülheim an der Ruhr, North-Rhine-Westphalia
+MHL,city,Mühlhausen,Mühlhausen
+MI,city,Minden-Lübbecke, North-Rhine-Westphalia
+MIL,city,Miltenberg, Bavaria
+MK,city,Märkischer Kreis, North-Rhine-Westphalia
+MKK,city,Main-Kinzig-Kreis, Hessen
+ML,city,Mansfelder Land, Saxony-Anhalt
+MM,city,Memmingen, Bavaria
+MN,city,Mindelheim & Unterallgäu, Bavaria
+MO,city,Moers, North-Rhine-Westphalia
+MOD,city,Marktoberdorf, Bavaria
+MOL,city,Märkisch-Oderland, Brandenburg
+MON,city,Monschau, North-Rhine-Westphalia
+MOS,city,Mosbach & Neckar-Odenwald-Kreis, Baden-Württemberg
+MQ,city,Merseburg-Querfurt, Saxony-Anhalt
+MR,city,Marburg-Biedenkopf, Hesse
+MS,city,Münster, North-Rhine-Westphalia
+MSP,city,Main-Spessart-Kreis, Bavaria
+MST,city,Mecklenburg-Strelitz, Mecklenburg-Vorpommern
+MT,city,Montabaur, Rhineland Palatinate
+MTK,city,Main-Taunus-Kreis, Hesse
+MTL,city,Muldentalkreis, Saxony
+MÜ,city,Mühldorf am Inn, Bavaria
+MÜB,city,Münchberg, Bavaria
+MÜL,city,Müllheim, Baden-Württemberg
+MÜN,city,Münsingen, Baden-Württemberg
+MÜR,city,Müritz, Mecklenburg-Vorpommern
+MVL,state,Mecklenburg-Vorpommern Land official vehicles,
+MW,city,Mittweida, Saxony
+MY,city,Mayen, Rhineland Palatinate
+MYK,city,Mayen-Koblenz, Rhineland Palatinate
+MZ,city,Mainz & Mainz-Bingen, Rhineland Palatinate
+MZG,city,Merzig-Wadern, Saarland
+N,city,Nuremberg (Nürnberg), Bavaria
+NAB,city,Nabburg, Bavaria
+NAI,city,Naila, Bavaria
+NAU,city,Nauen, Brandenburg
+NB,city,Neubrandenburg, Mecklenburg-Vorpommern
+ND,city,Neuberg an der Donau & Neuberg-Schrobenhausen, Bavaria
+NDH,city,Nordhausen, Thuringia
+NE,city,Neuss, North-Rhine-Westphalia
+NEA,city,Neustadt an der Aisch & Bad Windsheim, Bavaria
+NEB,city,Nebra, Saxony Anhalt
+NEC,city,Neustadt Coburg, Bavaria
+NEN,city,Neunburg, Bavaria
+NES,city,Bad Neustadt an der Saale & Rhön-Grabfeld, Bavaria
+NEU,city,Neustadt Schwarzwald, Baden-Württemberg
+NEW,city,Neustadt an der Waldnaab, Bavaria
+NF,city,Nordfriesland, Schleswig-Holstein
+NH,city,Neuhaus an der Rennweg, Thuringia
+NI,city,Nienberg (Weser), Lower Saxony
+NIB,city,Niebüll, Schleswig-Holstein
+NK,city,Neunkirchen/Saar, Saarland
+NL,state,Lower Saxony State official vehicles,
+NM,city,Neumarkt in der Oberpfalz, Bavaria
+NMB,city,Naumberg, Saxony Anhalt
+NMS,city,Neumünster, Schleswig-Holstein
+NÖ,city,Nördlingen, Bavaria
+NOH,city,Nordhorn & Grafschaft Bentheim, Lower Saxony
+NOL,city,Niederschlesischer Oberlausitzkreis, Saxony
+NOM,city,Northeim, Lower Saxony
+NOR,city,Norden, Lower Saxony
+NP,city,Neuruppin, Brandenburg
+NR,city,Neuwied am Rhein, Rhineland Palatinate
+NRÜ,city,Neustadt am Rübenberge, Lower Saxony
+NRW,state,North-Rhine-Westphalia State official vehicles,
+NU,city,Neu-Ulm, Bavaria
+NT,city,Nürtingen, Baden-Württemberg
+NVP,city,Nordvorpommern, Mecklenburg-Vorpommern
+NW,city,Neustadt an der Weinstraße, Rhineland Palatinate
+NWM,city,Nordwestmecklenburg, Mecklenburg-Vorpommern
+NY,city,Niesky, Saxony
+NZ,city,Neustrelitz, Mecklenburg-Vorpommern
+OA,city,Oberallgäu, Bavaria
+OAL,city,Ostallgäu, Bavaria
+OB,city,Oberhausen, North-Rhine-Westphalia
+OBB,city,Obernburg, Bavaria
+OBG,city,Osterburg, Saxony Anhalt
+OC,city,Oschersleben, Saxony
+OCH,city,Ochsenfurt, Bavaria
+OD,city,Bad Oldesloe & Stormarn, Schleswig-Holstein
+OE,city,Olpe, North-Rhine-Westphalia
+OF,city,Offenbach am Main, Hesse
+OG,city,Offenburg & Ortenaukreis, Baden-Württemberg
+OH,city,Ostholstein, Schleswig-Holstein
+OHA,city,Osterode am Harz, Lower Saxony
+ÖHR,city,Öhringen, Baden-Württemberg
+OHV,city,Oberhavel, Brandenburg
+OHZ,city,Osterholz, Lower Saxony
+OK,city,Ohre-Kreis, Saxony-Anhalt
+OL,city,Oldenburg, Lower Saxony
+OLD,city,Oldenburg (Holstein), Schleswig-Holstein
+OP,city,Opladen, North-Rhine-Westphalia
+OPR,city,Ostprignitz-Ruppin, Brandenburg
+OR,city,Oranienburg, Brandenburg
+OS,city,Osnabrück, Lower Saxony
+OSL,city,Oberspreewald-Lausitz, Brandenburg
+OTT,city,Otterndorf, Lower Saxony
+OTW,city,Ottweiler, Saarland
+OVI,city,Oberviechtach, Bavaria
+OVL,city,Obervogtland, Saxony
+OVP,city,Ostvorpommern, Mecklenburg-Vorpommern
+OZ,city,Oschatz, Saxony
+P,city,Potsdam, Brandenburg
+PA,city,Passau, Bavaria
+PAF,city,Pfaffenhofen an der Ilm, Bavaria
+PAN,city,Pfarrkirchen & Rottal-Inn, Bavaria
+PAR,city,Parsberg, Bavaria
+PB,city,Paderborn, North-Rhine-Westphalia
+PCH,city,Parchim, Mecklenburg-Vorpommern
+PE,city,Peine, Lower Saxony
+PEG,city,Pegnitz, Bavraia
+PER,city,Perleberg, Brandenburg
+PF,city,Pforzheim & Enzkreis, Baden-Württemberg
+PI,city,Pinneberg, Schleswig-Holstein
+PIR,city,Pirna, Saxony
+PK,city,Pritzwalk, Brandenburg
+PL,city,Plauen, Saxony
+PLÖ,city,Plön, Schleswig-Holstein
+PM,city,Potsdam-Mittelmark, Brandenburg
+PN,city,Pößneck, Thuringia
+PR,city,Prignitz, Brandenburg
+PRÜ,city,Prüm, Rhineland Palatinate
+PS,city,Pirmasens & Südwestpfalz, Rhineland Palatinate
+PW,city,Pasewalk, Mecklenburg-Vorpommern
+PZ,city,Prenzlau, Brandenburg
+QFT,city,Querfurt, Saxony Anhalt
+QLB,city,Quedlinburg, Saxony-Anhalt
+R,city,Regensberg, Bavaria
+RA,city,Ratstatt, Baden-Württemberg
+RC,city,Reichenbach, Saxony
+RD,city,Rendsburg-Eckernförde, Schleswig-Holstein
+RDG,city,Ribnitz-Damgarten, Mecklenburg-Vorpommern
+RE,city,Recklinghausen, North-Rhine-Westphalia
+REG,city,Regen, Bavaria
+REH,city,Rehau, Bavaria
+REI,city,Bad Reichenhall, Bavaria
+RG,city,Riesa-Großenhain, Saxony
+RH,city,Roth bei Nürnberg, Bavaria
+RI,city,Rinteln, Lower Saxony
+RID,city,Riedenburg, Bavaria
+RIE,city,Riesa, Saxony
+RL,city,Rochlitz, Saxony
+RM,city,Röbel/Muritz, Mecklenburg-Vorpommern
+RN,city,Rathenow, Brandenburg
+RO,city,Rosenheim, Bavaria
+ROD,city,Roding, Bavaria
+ROF,city,Rotenburg bei Fulda, Hesse
+ROH,city,Rotenburg Wümme, Lower Saxony
+ROK,city,Rockenhausen, Rhineland Palatinate
+ROL,city,Rottenburg Laaber, Bavaria
+ROS,city,Rostock Land, Mecklenburg-Vorpommern
+ROT,city,Rothenburg ob der Tauber, Bavaria
+ROW,city,Rotenburg (Wümme) & Bremervörde, Lower Saxony
+RPL,state,Rhineland Palatinate State official vehicles,
+RS,city,Remscheid, North-Rhine-Westphalia
+RSL,city,Roßlau, Saxony Anhalt
+RT,city,Reutlingen, Baden-Württemberg
+RU,city,Rudolstadt,Rudolstadt
+RÜD,city,Rüdesheim & Rheingau-Taunus-Kreis, Hesse
+RÜG,city,Rügen, Mecklenburg-Vorpommern
+RV,city,Ravensburg, Baden-Württemberg
+RW,city,Rottweil, Baden-Württemberg
+RWL,state,North-Rhine-Westphalia State official vehicles,
+RY,city,Rheydt, North-Rhine-Westphalia
+RZ,city,Ratzeburg & Hertzogtum Lauenburg, Schleswig-Holstein
+S,city,Stuttgart, Baden-Württemberg
+SAB,city,Saarburg, Rhineland Palatinate
+SAD,city,Schwandorf, Bavaria
+SÄK,city,Säckingen, Baden-Württemberg
+SAL,state,Saarland official vehicles,
+SAN,city,Stadtsteinach, Bavaria
+SAO,city,Saale-Orla Kreis,Saale-Orla Kreis
+SAW,city,Altmarkkreis Salzwedel, Saxony-Anhalt
+SB,city,Saarbrücken, Saarland
+SBG,city,Strasburg, Mecklenburg-Vorpommern
+SBK,city,Schönebeck, Saxony-Anhalt
+SC,city,Schwabach, Bavaria
+SCZ,city,Schleiz, Thuringia
+SDH,city,Sondershausen, Thuringia
+SDL,city,Stendal, Saxony-Anhalt
+SDT,city,Schwedt, Brandenburg
+SE,city,Segeberg, Schleswig-Holstein
+SEB,city,Sebnitz, Saxony
+SEE,city,Seelow, Brandenburg
+SEF,city,Scheinfeld, Bavaria
+SEL,city,Selb, Bavaria
+SF,city,Sonthofen, Bavaria
+SFA,city,Soltau-Fallingbostel, Lower Saxony
+SFB,city,Senftenberg, Brandenburg
+SFT,city,Staßfurt, Saxony Anhalt
+SG,city,Solingen, North-Rhine-Westphalia
+SGH,city,Sangerhausen, Saxony-Anhalt
+SH,state,Schleswig-Holstein Land official vehicles,
+SHA,city,Schwäbisch Hall, Baden-Württemberg
+SHG,city,Stadthagen & Schaumburg, Lower Saxony
+SHK,city,Saale-Holzland-Kreis, Thuringia
+SHL,city,Suhl, Thuringia
+SHS,city,Sangerhausen,Sangerhausen
+SI,city,Siegen-Wittgenstein, North-Rhine-Westphalia
+SIG,city,Sigmaringen, Baden-Württemberg
+SIM,city,Simmern & Rhein-Hunsrück-Kreis, Rhineland Palatinate
+SK,city,Saalkreis, Saxony-Anhalt
+SL,city,Schleswig-Flensburg, Schleswig-Holstein
+SLE,city,Schleiden (Eifel), North-Rhine-Westphalia
+SLF,city,Saalfeld-Rudolstadt, Thuringia
+SLG,city,Saulgau, Baden-Württemberg
+SLK,city,Salzlandkreis, Saxony-Anhalt
+SLN,city,Schmölin, Thuringia
+SLS,city,Saarlouis, Saarland
+SLÜ,city,Schlüchtern, Hesse
+SLZ,city,Bad Salzungen, Thuringia
+SM,city,Schmalkalden-Meiningen, Thuringia
+SMÜ,city,Schwabmünchen, Bavaria
+SN,city,Schwerin, Mecklenburg-Vorpommern
+SNH,city,Sinsheim, Baden-Württemberg
+SO,city,Soest, North-Rhine-Westphalia
+SOB,city,Schrobenhausen, Bavaria
+SOG,city,Schongau, Bavaria
+SOK,city,Saale-Orla-Kreis, Thuringia
+SOL,city,Soltau, Lower Saxony
+SÖM,city,Sömmerda, Thuringia
+SON,city,Sonneberg, Thuringia
+SP,city,Speyer, Rhineland Palatinate
+SPB,city,Spremberg, Brandenburg
+SPN,city,Spree-Neiße, Brandenburg
+SPR,city,Springe, Lower Saxony
+SR,city,Straubing & Straubing-Bogen, Bavaria
+SRB,city,Strausberg, Brandenburg
+SRO,city,Stadtroda, Thuringia
+ST,city,Steinfurt, North-Rhine-Westphalia
+STA,city,Starnberg, Bavaria
+STB,city,Sternberg, Mecklenburg-Vorpommern
+STD,city,Stade, Lower Saxony
+STE,city,Staffelstein, Bavaria
+STH,city,Stadthagen, Lower Saxony
+STL,city,Stollberg, Saxony
+STO,city,Stockach, Baden-Württemberg
+SU,city,Siegburg & Rhein-Sieg-Kreis, North-Rhine-Westphalia
+SUL,city,Sulzbach-Rosenberg, Bavaria
+SÜW,city,Südliche Weinstraße, Rhineland Palatinate
+SW,city,Schweinfurt, Bavaria
+SWA,city,Bad Schwalbach & Rheingau-Taunus-Kreis, Hesse
+SWZ,city,Schwarzakreis,Schwarzakreis
+SY,city,Syke, Lower Saxony
+SZ,city,Salzgitter, Lower Saxony
+SZB,city,Schwarzenberg, Saxony
+TBB,city,Tauberbischofsheim & Main-Tauber-Kreis, Baden-Württemberg
+TE,city,Teterow, Mecklenburg-Vorpommern
+TF,city,Teltow-Fläming, Brandenburg
+TG,city,Torgau, Saxony
+TGO,city,Thurgau-Oschatz,Thurgau-Oschatz
+THL,state,Thuringia State (Thüringen Land) official vehicles,
+THW,state,German Federal Agency for Technical Relief vehicles,
+TIR,city,Tirschenreuth, Bavaria
+TO,city,Torgau-Oschatz, Saxony
+TÖL,city,Bad Tölz-Wolfratshausen, Bavaria
+TÖN,city,Tönning, Schleswig-Holstein
+TP,city,Templin, Brandenburg
+TR,city,Trier, Rhineland Palatinate
+TS,city,Traunstein, Bavaria
+TT,city,Tettnang, Baden-Württemberg
+TÜ,city,Tübingen, Baden-Württemberg
+TUT,city,Tuttlingen, Baden-Württemberg
+ÜB,city,Überlingen, Baden-Württemberg
+UE,city,Uelzen, Lower Saxony
+UEM,city,Ueckermünde, Mecklenburg-Vorpommern
+UER,city,Uecker-Randow, Mecklenburg-Vorpommern
+UFF,city,Uffenheim, Bavaria
+UH,city,Unstrut-Hainich, Thuringia
+UL,city,Ulm & Alb-Donau-Kreis, Baden-Württemberg
+UM,city,Uckermark, Brandenburg
+UN,city,Unna, North-Rhine-Westphalia
+USI,city,Usingen, Hesse
+V,city,Vogtlandkreis, Saxony
+VAI,city,Vaihingen, Baden-Württemberg
+VB,city,Vogelsbergkreis, Hesse
+VEC,city,Vechta, Lower Saxony
+VER,city,Verden, Lower Saxony
+VIB,city,Vilsbiburg, Bavaria
+VIE,city,Viersen, North-Rhine-Westphalia
+VIT,city,Viechtach, Bavaria
+VK,city,Völklingen, Saarland
+VL,city,Villingen, Baden-Württemberg
+VOF,city,Vilshofen, Bavaria
+VOH,city,Vohenstrauß, Bavaria
+VR,city,Vorpommern-Rügen, Mecklenburg-Vorpommern
+VS,city,Villingen-Schwenningen & Schwarzwald-Baar-Kreis, Baden-Württemberg
+W,city,Wuppertal, North-Rhine-Westphalia
+WA,city,Waldeck, Hesse
+WAF,city,Kreis Warendorf, North-Rhine-Westphalia
+WAK,city,Wartburgkreis, Thuringia
+WAM,city,Westliche Altmark,Westliche Altmark
+WAN,city,Wanne-Eickel, North-Rhine-Westphalia
+WAR,city,Warburg, North-Rhine-Westphalia
+WAT,city,Wattenscheid, North-Rhine-Westphalia
+WB,city,Wittenberg, Saxony-Anhalt
+WBS,city,Worbis, Thuringia
+WD,city,Weidenbrück, North-Rhine-Westphalia
+WDA,city,Werdau, Saxony
+WE,city,Weimar, Thuringia
+WEB,city,Westerburg, Rhineland Palatinate
+WEG,city,Wegscheid, Bavaria
+WEI,city,Weimarer Land (Kreis Apolda),Weimarer Land (Kreis Apolda)
+WEL,city,Weilburg, Hesse
+WEM,city,Wesermünde, Lower Saxony
+WEN,city,Weiden in der Oberpfalz, Bavaria
+WER,city,Wertingen, Bavaria
+WES,city,Wesel, North-Rhine-Westphalia
+WF,city,Wolfenbüttel, Lower Saxony
+WG,city,Wangen, Baden-Württemberg
+WHV,city,Wilhelmshaven, Lower Saxony
+WI,city,Wiesbaden, Hesse
+WIL,city,Wittlich & Bernkastel-Wittlich, Rhineland Palatinate
+WIS,city,Wismarer Land,Wismarer Land
+WIT,city,Witten, North-Rhine-Westphalia
+WIZ,city,Witzenhausen, Hesse
+WK,city,Wittstock, Brandenburg
+WL,city,Winsen (Luhe) & Harburg, Lower Saxony
+WLG,city,Wolgast, Mecklenburg-Vorpommern
+WM,city,Weilheim-Schongau, Bavaria
+WMS,city,Wolmirstedt, Saxony Anhalt
+WN,city,Waiblingen & Rems-Murr-Kreis, Baden-Württemberg
+WND,city,St Wendel, Saarland
+WO,city,Worms, Rhineland Palatinate
+WOB,city,Wolfsburg, Lower Saxony
+WOH,city,Wolfhagen, Hesse
+WOL,city,Wolfach, Baden-Württemberg
+WOR,city,Wolfratshausen, Bavaria
+WOS,city,Wolfstein, Bavaria
+WR,city,Wernigerode, Saxony-Anhalt
+WRN,city,Waren, Mecklenburg-Vorpommern
+WS,city,Wasserburg, Bavaria
+WSF,city,Weißenfels, Saxony-Anhalt
+WST,city,Westerstede & Ammerland, Lower Saxony
+WSW,city,Weißwasser, Saxony
+WT,city,Waldshut, Baden-Württemberg
+WTL,city,Wittlage, Lower Saxony
+WTM,city,Wittmund, Lower Saxony
+WÜ,city,Würzburg, Bavaria
+WUG,city,Weißenburg-Gunzenhausen, Bavaria
+WUM,city,Waldmünchen, Bavaria
+WUN,city,Wunsiedel am Fichtelgebirge, Bavaria
+WUR,city,Wurzen, Saxony
+WW,city,Westerwaldkreis, Rhineland Palatinate
+WZ,city,Wetzlar, Hesse
+WZL,city,Wanzleben, Saxony Anhalt
+X,official,NATO Forces vehicles,
+Y,official,Armed Forces vehicles,
+Z,city,Zwickauer Land, Saxony
+ZE,city,Zerbst, Saxony-Anhalt
+ZEL,city,Zell, Rhineland Palatinate
+ZI,city,Löbau-Zittau,Löbau-Zittau
+ZIG,city,Ziegenhain, Hesse
+ZP,city,Zschopau, Saxony
+ZR,city,Zeulenroda, Thuringia
+ZS,city,Zossen, Brandenburg
+ZW,city,Zweibrücken, Rhineland Palatinate
+ZZ,city,Zeitz, Saxony Anhalt

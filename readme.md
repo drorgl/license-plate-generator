@@ -34,4 +34,6 @@ https://www.autoplates.com/misc/euromeanings.htm
 https://hiveminer.com/Tags/collection,licenseplate/Recent
 [https://commons.wikimedia.org/wiki/File:GERMANY,_POTSDAM_2007,_AGRICLTURAL_TAX_FREE_VEHICLE_plate_SHORT_NUMBER_-_Flickr_-_woody1778a.jpg](https://commons.wikimedia.org/wiki/File:GERMANY,_POTSDAM_2007,_AGRICLTURAL_TAX_FREE_VEHICLE_plate_SHORT_NUMBER_-_Flickr_-_woody1778a.jpg)
 
+Sample
+![](https://github.com/drorgl/license-plate-generator/raw/master/test_output.png)
 
